@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trabalho</string>
+    <string name="button_main">button_main</string>
+    <string name="text_header">Message Received</string>
+</resources>
